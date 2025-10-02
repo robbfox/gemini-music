@@ -95,22 +95,22 @@ function buildInitialPrompts() {
 }
 
 const DEFAULT_PROMPTS = [
-  { color: '#9900ff', text: 'Bossa Nova' },
-  { color: '#5200ff', text: 'Chillwave' },
-  { color: '#ff25f6', text: 'Drum and Bass' },
-  { color: '#2af6de', text: 'Post Punk' },
-  { color: '#ffdd28', text: 'Shoegaze' },
-  { color: '#2af6de', text: 'Funk' },
-  { color: '#9900ff', text: 'Chiptune' },
-  { color: '#3dffab', text: 'Lush Strings' },
-  { color: '#d8ff3e', text: 'Sparkling Arpeggios' },
-  { color: '#d9b2ff', text: 'Staccato Rhythms' },
-  { color: '#3dffab', text: 'Punchy Kick' },
-  { color: '#ffdd28', text: 'Dubstep' },
-  { color: '#ff25f6', text: 'K Pop' },
-  { color: '#d8ff3e', text: 'Neo Soul' },
-  { color: '#5200ff', text: 'Trip Hop' },
-  { color: '#d9b2ff', text: 'Thrash' },
+  { color: '#ff007f', text: 'Future Bass' },
+  { color: '#00ffff', text: 'Uplifting Trance' },
+  { color: '#ffc700', text: 'Big Room House' },
+  { color: '#7f00ff', text: 'Melodic Dubstep' },
+  { color: '#00ff7f', text: 'Progressive House' },
+  { color: '#ff3d00', text: 'Hardstyle Kick' },
+  { color: '#9dff00', text: 'Wobble Bass' },
+  { color: '#ff00ff', text: 'Driving Techno' },
+  { color: '#007fff', text: 'Atmospheric Pads' },
+  { color: '#ff7f00', text: 'Glitchy Percussion' },
+  { color: '#c700ff', text: 'Euphoric Lead' },
+  { color: '#00ffc7', text: 'Sidechained Synths' },
+  { color: '#ff003d', text: 'Heavy Sub Bass' },
+  { color: '#7fff00', text: 'Tech House Groove' },
+  { color: '#3d00ff', text: 'Vocal Chops' },
+  { color: '#ff9d00', text: 'Pluck Arpeggios' },
 ];
 
 main();
