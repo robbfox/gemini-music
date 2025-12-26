@@ -95,22 +95,8 @@ function buildInitialPrompts() {
 }
 
 const DEFAULT_PROMPTS = [
-  { color: '#ff007f', text: 'Future Bass' },
-  { color: '#00ffff', text: 'Uplifting Trance' },
-  { color: '#ffc700', text: 'Big Room House' },
-  { color: '#7f00ff', text: 'Melodic Dubstep' },
-  { color: '#00ff7f', text: 'Progressive House' },
-  { color: '#ff3d00', text: 'Hardstyle Kick' },
-  { color: '#9dff00', text: 'Wobble Bass' },
-  { color: '#ff00ff', text: 'Driving Techno' },
-  { color: '#007fff', text: 'Atmospheric Pads' },
-  { color: '#ff7f00', text: 'Glitchy Percussion' },
-  { color: '#c700ff', text: 'Euphoric Lead' },
-  { color: '#00ffc7', text: 'Sidechained Synths' },
-  { color: '#ff003d', text: 'Heavy Sub Bass' },
-  { color: '#7fff00', text: 'Tech House Groove' },
-  { color: '#3d00ff', text: 'Vocal Chops' },
-  { color: '#ff9d00', text: 'Pluck Arpeggios' },
+  { color: '#ff007f', text: 'Jazz drumkit' },
+  { color: '#00ffff', text: 'Jazz walking bass' }
 ];
 
 main();
